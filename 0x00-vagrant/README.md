@@ -1,0 +1,1 @@
+In this project we will learn about how to install a virtual machine to connect via vagrant to this virtual machine, create repositories on github and use git (version control) to connect through it to our remote repository. We will edit files from the terminal with a text editor called emacs or saw any of your preferences.
