@@ -1,0 +1,1 @@
+In this directory we will talk about a text editor, which offers us the tools to visually determine how our printed file will look.
